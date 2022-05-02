@@ -14,6 +14,6 @@ Trees are arranged in a regular grid but their positions are jittered by small r
  Similarly, each tree trunk and crown has a individual color shade, obtained using random variations of brown and green. 
 Finally, the forest changes over time: trees grow and their crowns become more pale to suggest seasonal change ( from spring to autumn).
 
-Check out the code on Github: https://radujianu.github.io/
+Check out the code on Github: https://github.com/GabrielMaharaj/webpage1
 
   
